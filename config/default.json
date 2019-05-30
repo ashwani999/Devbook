@@ -1,3 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://ashwani:ashwani_@devbook-hrlsj.mongodb.net/test?retryWrites=true"
+    "mongoURI":"mongodb+srv://ashwani:ashwani_@devbook-hrlsj.mongodb.net/test?retryWrites=true",
+    "jwtsecrets":"mysecret"
 }
