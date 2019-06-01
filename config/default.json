@@ -1,4 +1,6 @@
 {
     "mongoURI":"mongodb+srv://ashwani:ashwani_@devbook-hrlsj.mongodb.net/test?retryWrites=true",
-    "jwtsecrets":"mysecret"
-}
+    "jwtsecrets":"mysecret",
+    "githubClientId": "12d1bd277f3c8aa232d2",
+    "githubSecret": "8160af1d26a412ce3125c6b425703b65577d860b"
+}   
